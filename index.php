@@ -7,7 +7,7 @@
 <nav>
         <div class="nav-wrapper teal">
         <div class="container">
-          <a href="index.php" class="brand-logo center white-text">CRUD - CREAT READ UPDATE DELETE</a>
+          <a href="index.php" class="brand-logo center white-text">Program Untuk Jobsheet 05</a>
         </div>
         </div>
 </nav>
@@ -16,7 +16,7 @@
 		<div class="col-md-8 col-md-offset-2"> 
 			<p>
 				<center>
-					<h5>Data Mahasiswa</h5><hr>
+					<h5>Data Pasien Covid-19</h5><hr>
 				</center>
 			</p>
 			<br>
@@ -76,8 +76,8 @@
 						<?php echo $row['alamat']; ?>
 					</td>
 					<td>
-						<a class="btn orange" href="detail.php?id=<?php echo $row['id_mahasiswa']; ?>">Detail</a> 
-						<a class="btn green" href="edit.php?id=<?php echo $row['id_mahasiswa']; ?>">Edit</a> 
+						<a class="btn green" href="detail.php?id=<?php echo $row['id_mahasiswa']; ?>">Detail</a> 
+						<a class="btn blue" href="edit.php?id=<?php echo $row['id_mahasiswa']; ?>">Edit</a> 
 						<a class="btn red" href="hapus.php?id=<?php echo $row['id_mahasiswa']; ?>">Hapus</a>
 					</td>
 				</tr>

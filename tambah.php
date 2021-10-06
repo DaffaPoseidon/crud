@@ -9,7 +9,7 @@
 <nav>
         <div class="nav-wrapper teal">
         <div class="container">
-          <a href="index.php" class="brand-logo center white-text">CRUD - CREAT READ UPDATE DELETE</a>
+          <a href="index.php" class="brand-logo center white-text">Program Untuk Jobsheet 05</a>
         </div>
         </div>
 </nav>
@@ -18,7 +18,7 @@
             <div class="col-md-8 col-md-offset-2">
                 <p>
                     <center>
-                        <h5>Tambah Data Mahasiswa</h5><hr>
+                        <h5>Tambah Data Pasien Covid-19</h5><hr>
                     </center>
                 </p>
                 <br>
