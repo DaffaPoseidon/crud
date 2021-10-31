@@ -4,7 +4,7 @@ $koneksi = mysqli_connect
 				"10.0.0.207",
 				"admin",
 				"Chm246vp29!",
-				"crud"
+				"uts"
 			);
 if (mysqli_connect_errno())
 	{
